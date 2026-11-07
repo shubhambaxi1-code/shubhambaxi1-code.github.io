@@ -5,7 +5,8 @@ The personal portfolio of Shubham Baxi, an aspiring engineer exploring robotics,
 The site is a lightweight static website built with HTML and CSS. It introduces the author, highlights selected GitHub projects, and links visitors to GitHub and YouTube.
 
 ## Preview
-![Website Image](website_preview.png)
+
+![Website preview](website_preview.png)
 
 ## Features
 
