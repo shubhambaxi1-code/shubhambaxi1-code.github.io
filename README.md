@@ -4,6 +4,9 @@ The personal portfolio of Shubham Baxi, an aspiring engineer exploring robotics,
 
 The site is a lightweight static website built with HTML and CSS. It introduces the author, highlights selected GitHub projects, and links visitors to GitHub and YouTube.
 
+## Preview
+![Website Image](website_preview.png)
+
 ## Features
 
 - Responsive layout for desktop and mobile screens
@@ -42,7 +45,6 @@ Then visit <http://localhost:8000>.
 | `index.html` | Page content, navigation, project cards, and links |
 | `style.css` | Layout, colors, typography, responsive behavior, and states |
 | `favicon.svg` | Custom browser-tab icon |
-| `old.txt` | Earlier page draft kept for reference |
 
 ## Customization
 
